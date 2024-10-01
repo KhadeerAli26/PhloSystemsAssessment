@@ -1,5 +1,3 @@
-Phone number +14848239774 is successfully deleted.
-
 # PhloSystemsAssessment
 
 ## Overview
